@@ -1,4 +1,4 @@
-package assignment;
+package ro.ase.cts.g1098.cc.assignment2.initial;
 
 public class Account {
 	public double	loan_value,rate;	
