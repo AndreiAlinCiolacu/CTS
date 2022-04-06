@@ -1,4 +1,4 @@
-package ro.ase.cts.g1098.clean.code.assignment2.initial;
+package assignment;
 
 public class Account {
 	public double	loan_value,rate;	
